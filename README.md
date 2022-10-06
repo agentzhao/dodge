@@ -1,3 +1,3 @@
-# hackomania2019
+### Hackomania 2019
 
-Diabetes game
+Dodging diabetes game
